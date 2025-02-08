@@ -1,4 +1,6 @@
-# Password-Generator
+# Internship Provider: CodSoft
+
+# Task 3 Password-Generator
 🔐 Random Password Generator
 
 A simple Random Password Generator built using Python. This program generates secure and strong passwords of a user-defined length using a combination of uppercase letters, lowercase letters, digits, and special characters.
@@ -7,8 +9,6 @@ A simple Random Password Generator built using Python. This program generates se
 ---
 
 🏆 Internship Details
-
-Internship Provider: CodSoft
 
 Internship Type: Python Programming Internship
 
